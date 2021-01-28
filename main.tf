@@ -1,6 +1,7 @@
 #provider "sonarcloud" {
 #    host          = "sonarcloud.io"
 #}
+#
 
 # resource "sonarcloud_project" "main" {
 #     name       = "SonarCloud"
